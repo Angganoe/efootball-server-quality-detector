@@ -11,3 +11,12 @@ This is an observation based on my own data and testing. It is not a guarantee f
 Currently, this detector is available only for the Windows PC version of eFootball, including gameplay launched through Steam or the Xbox app.
 
 The software is free to use. If you find it useful, you can optionally support its development on [Ko-fi](https://ko-fi.com/angganurdiansah).
+
+## Connection Recommendations
+
+- For a stable connection, use a wired Ethernet connection with a Cat 6 cable or higher.
+- For recommended LAN adapter settings, see [this guide](https://www.youtube.com/watch?v=mEoXW-SH-y0).
+
+## Other Factors That May Affect Synchronization
+
+Synchronization can also be affected by peak-hour network congestion, game-server load, and your internet service provider (ISP). These conditions are outside the detector’s control.
